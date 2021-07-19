@@ -6,7 +6,7 @@ This is the ```https://www.thewhiskyexchange.com/c/35/japanese-whisky``` WEBSITE
 
 
 
-##Getting started
+## Getting started
 
 Download or clone the project from github
 ```
@@ -39,3 +39,4 @@ So, to override that, we will declare a variable which will store our user-agent
 baseurl = "https://www.thewhiskyexchange.com"
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'}
 ```
+Output SCREENSHOT: ![WebScraper](https://raw.githubusercontent.com/ShamsAwais/webscraper/master/scraper.PNG)
