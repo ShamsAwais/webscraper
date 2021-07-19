@@ -1,4 +1,5 @@
-#WEB SCRAPPING IN PYTHON
+# WEB SCRAPPING IN PYTHON
+
 In this post we are going to scrape an ecommerce website.
 We'll get into each individual product page and retrieve our information from there.
 This is the ```https://www.thewhiskyexchange.com/c/35/japanese-whisky``` WEBSITE we are going to scrape – it's an online shop that sells whisky.
